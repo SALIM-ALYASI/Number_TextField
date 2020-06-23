@@ -91,7 +91,7 @@ extension DRHTextFieldWithCharacterCount: UITextFieldDelegate {
                 }, completion: { (finish) in
                     UIView.animate(withDuration: 0.1, animations: {
                         self.countLabel.transform = CGAffineTransform.identity
-                    }) 
+                    })
             })
         }
         
