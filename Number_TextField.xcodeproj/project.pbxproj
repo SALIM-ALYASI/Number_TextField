@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CEC67B7623E93B910046FB63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC67B7523E93B910046FB63 /* AppDelegate.swift */; };
-		CEC67B7823E93B910046FB63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC67B7723E93B910046FB63 /* SceneDelegate.swift */; };
 		CEC67B7A23E93B910046FB63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC67B7923E93B910046FB63 /* ViewController.swift */; };
 		CEC67B7D23E93B910046FB63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEC67B7B23E93B910046FB63 /* Main.storyboard */; };
 		CEC67B8023E93B910046FB63 /* Number_TextField.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CEC67B7E23E93B910046FB63 /* Number_TextField.xcdatamodeld */; };
@@ -20,7 +19,6 @@
 /* Begin PBXFileReference section */
 		CEC67B7223E93B910046FB63 /* Number_TextField.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Number_TextField.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEC67B7523E93B910046FB63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CEC67B7723E93B910046FB63 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CEC67B7923E93B910046FB63 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CEC67B7C23E93B910046FB63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CEC67B7F23E93B910046FB63 /* Number_TextField.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Number_TextField.xcdatamodel; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 			isa = PBXGroup;
 			children = (
 				CEC67B7523E93B910046FB63 /* AppDelegate.swift */,
-				CEC67B7723E93B910046FB63 /* SceneDelegate.swift */,
 				CEC67B7923E93B910046FB63 /* ViewController.swift */,
 				CEC67B7B23E93B910046FB63 /* Main.storyboard */,
 				CEC67B8C23E93BC80046FB63 /* DRHTextFieldWithCharacterCount.swift */,
@@ -148,7 +145,6 @@
 				CEC67B7A23E93B910046FB63 /* ViewController.swift in Sources */,
 				CEC67B7623E93B910046FB63 /* AppDelegate.swift in Sources */,
 				CEC67B8023E93B910046FB63 /* Number_TextField.xcdatamodeld in Sources */,
-				CEC67B7823E93B910046FB63 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
